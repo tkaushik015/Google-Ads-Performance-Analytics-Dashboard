@@ -1,11 +1,11 @@
-# Adword-Data-Analysis
+# Google Ads Performance Analytics Dashboard
 
 [![Python Version](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-informational)](https://www.mysql.com/)
 [![Power BI](https://img.shields.io/badge/Visualization-Power_BI-yellow)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/AdityakumarDA/Adword-Data-Analysis/tree/main?tab=MIT-1-ov-file)
 
-A complete, real-world AdWords Data Analysis pipeline from raw Excel to fully interactive dashboards using **Excel**, **Python (pandas)**, **MySQL**, and **Power BI**.
+A complete, real-world Google Ads Data Analysis pipeline from raw Excel to fully interactive dashboards using **Excel**, **Python (pandas)**, **MySQL**, and **Power BI**.
 
 This project mimics an enterprise-level ETL (Extract, Transform, Load) and BI (Business Intelligence) solution, showcasing data cleaning, relational modeling, and dashboarding — ideal for both recruiters and students studying data analytics, BI, or SQL-based solutions.
 
